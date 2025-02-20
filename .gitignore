@@ -37,4 +37,4 @@ minggu1/order-service/data/*
 minggu1/inventory-service/inventory-service/docker/*
 minggu1/inventory-service/inventory-service/mysql/*
 minggu1/inventory-service/inventory-service/data/*
-
+minggu1/api-gateway/volume-data/*
